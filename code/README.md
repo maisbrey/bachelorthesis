@@ -23,7 +23,7 @@ Hier sind verschiedene Ergebnisse abgelegt, bspw. Trainingsverläufe oder Plots 
 Hier sind verschiedene Modelle als .json bzw. .h5 Dateien abgelegt, welche mit Python Skripten erstellt wurden und mit Notebooks verwendet werden können.
 
 
-###Hinweis zu nsgt
+#### Hinweis zu nsgt
 Es muss noch der Ordner *nsgt* hier liegen. Dieser kann von GitHub mit *git clone https://github.com/grrrr/nsgt.git* geklont werden. Dann Installationsanweisungen folgen:
 In Konsole in Ordner *BA_Schnerring/nsgt* navigieren und
 python3.6 setup.py build
