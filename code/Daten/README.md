@@ -1,0 +1,1 @@
+In diesem Ordner müssen die Ordner **frames_training_data** und **frames_test_data** enthalten sein. Diese enthalten verschiedene .npy Dateien in Abhängigkeit von Stück und Darstellungsform sowie die Sounddateien, aus welchen die .npy Dateien erzeugt werden. Zusätzlich sind die Midifiles der jeweiligen Stücke enthalten.
