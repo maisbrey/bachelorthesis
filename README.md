@@ -14,16 +14,13 @@ Der Ordner **Datengenerierung** enthält Skripte zur Generierung von Trainingsda
 
 Der Ordner **Training** enthält Skipte zur Implementierung neuronaler Netze. Diese greifen auf die Trainingsdaten in **Daten** zu und speichern die Informationen der die trainierten Modelle im Ordner **Modelle** ab.
 
-
 ### Daten
 
 Hier sind Daten abgelegt, die von Python Skripten und Notebooks genutzt werden. Dies beinhaltet neben den ursprünglichen Soundfiles Numpy Arrays, welche die STFT/CQT dieser Soundfiles beschreiben.
 
-
 ### Ergebnisse
 
 Hier sind verschiedene Ergebnisse abgelegt, bspw. Trainingsverläufe oder Plots der vorhergesagten STFTs.
-
 
 ### Modelle
 
